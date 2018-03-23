@@ -1091,12 +1091,12 @@
 		-webkit-transition: color .2s ease-in-out;
 		-ms-transition: color .2s ease-in-out;
 		transition: color .2s ease-in-out;
-		color: #43B3E0;
+		color: white;
 		text-decoration: underline;
 	}
 
 		a:hover {
-			color: #43bff0 !important;
+			color: #EA8A95 !important;
 		}
 
 		a img {
@@ -1362,7 +1362,7 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #B4045F;
+			background-color: #EA8A95;
 			color: #fff !important;
 		}
 
@@ -1646,7 +1646,7 @@
 /* Nav */
 
 	#nav {
-		background-color: #B4045F;
+		background-color: #EA8A95;
 		text-align: center;
 		position: fixed;
 		left: 0;
